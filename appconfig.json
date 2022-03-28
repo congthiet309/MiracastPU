@@ -1,0 +1,8 @@
+{
+  "isShowInterstitial": true,
+  "isShowClose": true,
+  "isFreeAds": true,
+  "secret": "df35ebb8979d4bb591263a19c2d5c217",
+  "videoAdsSecond": 20,
+  "isHidenTabbar": true
+}
