@@ -1,9 +1,10 @@
 {
-  "isShowInterstitial": true,
-  "isShowClose": true,
-  "isShowCloseGui": true,
-  "isFreeAds": true,
-  "secret": "8837f30344a54a00bdc73d0a058a183d",
-  "videoAdsSecond": 20,
-  "isHidenTabbar": false
+    "isShowOnboarding": false,
+    "isShowInterstitial": true,
+    "isShowClose": true,
+    "isShowCloseGui": true,
+    "isFreeAds": true,
+    "videoAdsSecond": 20,
+    "isHidenTabbar": false
+    
 }
