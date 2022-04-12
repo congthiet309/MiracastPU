@@ -6,6 +6,7 @@
     "isShowCloseGui": true,
     "isFreeAds": true,
     "videoAdsSecond": 20,
-    "isHidenTabbar": false
+    "isHidenTabbar": false,
+    "getShowQuickPurchase": false
     
 }
