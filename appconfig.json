@@ -1,5 +1,5 @@
 {
-    "isShowOnboarding": true,
+    "isHidenOnboarding": false,
     "isShowRate": false,
     "isShowInterstitial": true,
     "isShowClose": true,
