@@ -2,11 +2,11 @@
     "isHidenOnboarding": false,
     "isShowRate": false,
     "isShowInterstitial": true,
-    "isShowClose": true,
-    "isShowCloseGui": true,
+    "isHidenClose": false,
+    "isHidenCloseGui": false,
     "isFreeAds": true,
     "videoAdsSecond": 20,
     "isHidenTabbar": false,
-    "getShowQuickPurchase": false
+    "isShowQuickPurchase": false
     
 }
