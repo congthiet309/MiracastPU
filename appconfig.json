@@ -1,12 +1,12 @@
 {
-    "isHidenOnboarding": false,
-    "isShowRate": false,
+    "isHidenOnboarding": true,
+    "isShowRate": true,
     "isShowInterstitial": true,
     "isHidenClose": false,
     "isHidenCloseGui": false,
     "isFreeAds": true,
     "videoAdsSecond": 20,
-    "isHidenTabbar": false,
-    "isShowQuickPurchase": false
+    "isHidenTabbar": true,
+    "isShowQuickPurchase": true
     
 }
