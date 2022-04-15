@@ -1,6 +1,6 @@
 {
     "isHidenOnboarding": false,
-    "isShowRate": true,
+    "isShowRate": false,
     "isShowInterstitial": true,
     "isHidenClose": false,
     "isHidenCloseGui": false,
