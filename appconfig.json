@@ -1,7 +1,7 @@
 {
     "isHidenOnboarding": false,
     "isShowRate": true,
-    "isShowInterstitial": true,
+    "isShowInterstitial": false,
     "isHidenClose": false,
     "isHidenCloseGui": false,
     "isFreeAds": true,
